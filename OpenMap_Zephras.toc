@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: |cffe6b85cOpen|rMap: Zephras Isle
+## Title-ruRU: |cffe6b85cOpen|rMap: Остров Зефрис
+## Notes: Adds the game's minimap to Zephras Isle's map in OpenMap: zoom in as on the rest of the world. Needs OpenMap.
+## Notes-ruRU: Добавляет мини-карту игры на карту острова Зефрис в OpenMap: зум как на остальном мире. Нужен OpenMap.
+## Version: 0.1.0
+## RequiredDeps: OpenMap
+## SavedVariables: OpenMapZephrasDB
+## X-License: MIT
+
+Data.lua
+Core.lua
